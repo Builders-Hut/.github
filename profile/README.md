@@ -24,7 +24,7 @@ Every aspect of the project will be decided by the members and the members only.
  ### When is the next meeting and Whats the project idea?
 
  - The next meeting will be held on: **21st June 2024**  <!-- please update date as per meeting schedule -->
- - The project being built is: **Builders Hut Landing Page** (please check respective git repo for more details)
+ - The project being built is: **[Builders Hut Landing Page](https://github.com/Builders-Hut/Landing-Page)** (please check respective git repo for more details)
 
 Credits to [@IEEE Computer Society](https://github.com/orgs/ComputerSocietyVITC/) for the idea! <!-- please update the user and their github -->
 
