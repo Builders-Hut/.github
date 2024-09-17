@@ -2,30 +2,45 @@
 
 ### What exactly is Builders Hut?
 
-Builders hut is an initiative by [IEEE Computer Socitey](https://github.com/orgs/ComputerSocietyVITC/) to act buildspace-like,
-where members can learn and develop new skills while building projects regardless of
-which they department they belong to, because at our core we all love tech.
+Builders Hut is an innitiative taken up by [@Aditya Jyoti](https://github.com/Aditya-Jyoti/)
+powered by [@IEEE Computer Society](https://github.com/ComputerSocietyVITC/) following the
+ideology of **Learn While Building**.
 
-### How does this event work?
+We have seen a lot of people coming from technical asking questions
+about how do they get started with using their skills to actually build usable and functional
+"products". We see people coming from non technical backgrounds asking, how do they actually
+develop these skills.
 
-Either weekly or biweekly, members will vote on ideas for projects. Project ideas will be given by members themselves.
-The project with most votes is chosen and then there will be a discussion on that saturday, 
-to decide the finer details of the projects, the tech stack to be used etc. 
-The day after that there will be a short seminar of sorts so that people who aren’t 
-acquainted with the tech stack used can get a small background of it, which they can further work 
-upon while they work on the project. Once the deadline is over, 
-there will be a short presentation of the project and this cycle will repeat!
+And thats where **Builders Hut** comes in.
 
-**NOTE:** 
-Every aspect of the project will be decided by the members and the members only. Everything from the technology to be used down to the finer details like logos and color scheme etc.
+We are an organization of people holding workshops, seminars and project reviews, for our
+peers so that one day they can hold something similar and teach us about their interests.
 
-**Built by Builders, Used by Builders**
+**By the people, Of the people, For the people** rightly describes this sentiment.
 
- ### When is the next meeting and Whats the project idea?
+Every month we shall hold **one**
 
- - The next meeting will be held on: **21st June 2024**  <!-- please update date as per meeting schedule -->
- - The project being built is: **[Builders Hut Landing Page](https://github.com/Builders-Hut/Landing-Page)** (please check respective git repo for more details)
+- Seminar: Teaches people the prerequisites that will go into building the project of the month.
+- Workshop: Actual introduction to the technology being touched during that month.
+- Project Review: Where everyone submits individual or team projects built using that technology.
 
-Credits to [@IEEE Computer Society](https://github.com/orgs/ComputerSocietyVITC/) for the idea! <!-- please update the user and their github -->
+**But what can you expect to learn from Builders Hut?**
 
-**Can't wait to see you there!**
+The options are endless, from web development, app development to game development to actually
+learning how to sell your products to how you should manage a team etc.
+
+We will not only work on technical but non technical skills as well.
+
+And not only us, you will also be given a chance to make use of your skills and teach the same
+to other people, the platform is open for all to claim.
+
+**DISCLAIMER**
+
+We are not people who will spoonfeed solutions to you. There will come a moment where you would
+have to depend on yourself to google for solutions, refer various resources and ofcourse
+LLMs like ChatGPT and Claude exist.
+
+If you think that you won't have to do anything and you will get everything you want, then we are
+**not the organization for you**.
+
+We can only help you if you **want to help yourself**
